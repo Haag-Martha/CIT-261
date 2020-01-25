@@ -30,7 +30,8 @@ For example:
   document.write(Fruit[0]); 
 </script>
 ```
-<a href="https://codepen.io/mintnerknown/pen/dyPrzpx" target="_blank">Demonstration at CodePen</a>
+See it at 
+<a href="https://codepen.io/mintnerknown/pen/dyPrzpx" target="_blank">CodePen</a>
 
 #### Associative Arrays
 In the example above, when accessing the first item (fruit) on the Array 'Fruits', with the [0] index, we are acessing something called *associative array*. We can only access arrays by their position in the Array. This is a zero based array, so the first item is in the position 0. and the last one is 2. (0 - Apple, 1 - Banana, 2 - Coconut). 
@@ -54,7 +55,8 @@ In the example below there a function (doTheMath) that multiplies two values pas
   document.write(result); //display the result.
 </script>
 ```
-<a href="https://codepen.io/mintnerknown/pen/abzMyWX" target="_blank">Demonstration at CodePen</a>
+See it at 
+<a href="https://codepen.io/mintnerknown/pen/abzMyWX" target="_blank">CodePen</a>
 
 
 #### Conditional Statements (If, Else)
@@ -80,7 +82,8 @@ Conditional statements execute specific blocks of code only if a condition is me
   document.write(result);
 </script>
 ```
-<a href="https://codepen.io/mintnerknown/pen/oNgVeqN" target="_blank">Demonstration at CodePen</a>
+See it at 
+<a href="https://codepen.io/mintnerknown/pen/oNgVeqN" target="_blank">CodePen</a>
 
 
 #### Loops (For and While)
@@ -99,11 +102,12 @@ for (i = 0; i < 10; i++) {
 document.getElementById("loop").innerHTML = text;
 </script>
 ```
-<a href="https://codepen.io/mintnerknown/pen/gObExBm" target="_blank">Demo at CodePen</a>
+See it at 
+<a href="https://codepen.io/mintnerknown/pen/gObExBm" target="_blank">CodePen</a>
 
 
 #### Demo Application
 
 Here is a link to a simple test using many of the methods I talked about here.
 
-<a href="https://codepen.io/mintnerknown/pen/VwYRzqe" target="_blank">A simple quiz at CodePen</a>
+<a href="https://codepen.io/mintnerknown/pen/VwYRzqe" target="_blank">A simple quiz</a> at CodePen
