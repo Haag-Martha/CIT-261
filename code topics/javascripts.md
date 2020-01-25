@@ -18,7 +18,7 @@ Variables are containers where data is stored. In the code below, the 'myOwnName
 <a href="https://codepen.io/mintnerknown/pen/vYEPJGY" target="_blank">Demonstration at CodePen</a>
 
 #### Arrays
-an array is a single variable that can store multiple elements. Multiple values are assigned within square brackets [].
+an array is a single variable that can store multiple elements. Multiple values are assigned within square brackets [ ].
 For example:
 
 ```html
