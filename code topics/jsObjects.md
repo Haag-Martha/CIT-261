@@ -9,16 +9,16 @@ JavaScript is not actually an object oriented language, but it
 uses objects and assigns properties and values to them.  It gets a little involved.  Objects are variables but may contain many values.  Basically, "JavaScript objects are containers for *named values* called properties or methods" <a href="https://www.w3schools.com/js/js_objects.asp">(w3schools.com)</a>
 
 
-I my little snippet of code here, I create a class "rectangle" with a constructor (constructor: type of function executed on the creation of the object) with width and height properties in parenthesis ( ). Then I create two functions "calcArea" and "displayArea." Finally, I create a variable "rect_1" that is a *rectangle object*!  This variable is creating an "instance" of the rectangle class, this is the object.  All the data within the class (constructor, the two functions) are accessed by the object variable "rect_1.
+In my little snippet of code here, I create a class "rectangle" with a constructor (constructor: type of function executed on the creation of the object) with width and height properties in parenthesis ( ). Then I create two functions "calcArea" and "displayArea." Finally, I create a variable "rect_1" that is a *rectangle object*!  This variable is creating an "instance" of the rectangle class, this is the object.  All the data within the class (constructor, the two functions) are accessed by the object variable "rect_1.
 
 
 ```html
 <script>
   class Rectangle {
-  constructor(height, width) {
+    constructor(height, width) {
     this.height = height;
     this.width = width;
-  }
+    }
 
     calcArea(){
       return rec1.width * rec1.height;
@@ -27,8 +27,7 @@ I my little snippet of code here, I create a class "rectangle" with a constructo
 
    displayArea(){
           document.write(rec1.width + " x " + rec1.height + " = " + this.calcArea());
-   }
-    
+   }    
 
 }
   
