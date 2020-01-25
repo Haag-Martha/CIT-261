@@ -1,9 +1,11 @@
 ## JavaScript Fluency
+Version 1  Week 3
+Jan 25, 2020
 
 ### JavaScript
-> Concepts: Loops, Conditional Statements, Functions, Variables, Parameters, Arrays, and Associative Arrays
+Concepts: Loops, Conditional Statements, Functions, Variables, Parameters, Arrays, and Associative Arrays
 
-Note: All the examples below to be executed needs to be inside a HTML page structure and inside the script tag (`<script>`).
+All these examples occur within a scripts file (file extension .js) referenced within an HTML page structure. 
 
 #### Variables
 Variables are containers where data is stored. In the code below, the 'myOwnName' is a variable. The *var* before the variable designates it as a variable in JavaScript. The equal sign (=) is used to assign the value 'Martha Haag' to the variable.
