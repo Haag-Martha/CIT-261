@@ -15,7 +15,8 @@ Variables are containers where data is stored. In the code below, the 'myOwnName
   document.write(myOwnName); //display the value of the variable.
 </script>
 ```
-<a href="https://codepen.io/mintnerknown/pen/vYEPJGY">Demonstration at CodePen</a>
+See it at 
+<a href="https://codepen.io/mintnerknown/pen/vYEPJGY">CodePen</a>
 
 #### Arrays
 an array is a single variable that can store multiple elements. Multiple values are assigned within square brackets [ ].
