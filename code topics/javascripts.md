@@ -1,6 +1,10 @@
 ## JavaScript Fluency
-Version 1  Week 3
-Jan 25, 2020
+Version 2  Week 5
+Feb 4, 2020
+
+<a href="https://haag-martha.github.io/">Back to Home</a>
+
+
 
 ### JavaScript
 Concepts: Loops, Conditional Statements, Functions, Variables, Parameters, Arrays, and Associative Arrays
