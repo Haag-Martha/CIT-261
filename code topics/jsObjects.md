@@ -36,6 +36,6 @@ In my little snippet of code here, I create a class "rectangle" with a construct
 </script>
 ```
 
-See it work at <a href="https://codepen.io/mintnerknown/pen/gObEKee" target="_blank">CodePen</a>
+See it work at <a href="https://codepen.io/mintnerknown/pen/gObEKee" target="_blank">Here</a>
 
 Now, I understand this is rudimentary.  There is much more to learn and I can delve **deep** into the abyss of JavaScript Objects. But I have been given half of one week (3 days) to learn this, amungst the work of three other classes.  I understand this *in principle* but need more time to really learn it.
