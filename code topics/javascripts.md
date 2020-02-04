@@ -114,6 +114,6 @@ See it at
 
 #### Demo Application
 
-Here is a link to a simple test using many of the methods I talked about here.
+Here is the link to a simple test using many of the methods I talked about here.
 
-<a href="https://codepen.io/mintnerknown/pen/VwYRzqe" target="_blank">A simple quiz</a> at CodePen
+<a href="https://haag-martha.github.io/simple-test.html" target="_blank">A simple quiz</a> at CodePen
