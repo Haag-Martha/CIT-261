@@ -50,4 +50,4 @@ The last step is to append this new `<LI>` element on the `<UL>` list with the `
 }
 ````
 
-<a href="https://codepen.io/mintnerknown/pen/ExjxyGq" target="_blank">A complete source of this TODO App (At CodePen)</a>
+<a href="https://codepen.io/mintnerknown/pen/ExjxyGq" target="_blank">A complete source of this To Do App (At CodePen)</a>
